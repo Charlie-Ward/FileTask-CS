@@ -46,3 +46,5 @@ for wordcount in range(f_length):
 for alphabet_count_three in range(26):
 	if count[alphabet_count_three] != 0:
 		print(f'The letter {alphabet[alphabet_count_three]} is at the front of {count[alphabet_count_three]} words in the file')
+
+##TEST
